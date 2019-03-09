@@ -1,0 +1,2 @@
+# Discovery-of-Handwashing
+Dr. Ignaz Semmelweis, a Hungarian physician discover the hand washing. He analyzed during his experiments that major cause of child bed fever was infection due to lack of proper hygiene and maintenance. So he experimented on Handwashing and enforced it to his hospital which leads to save hundreds of lives by this experiments. Here I wanted to reanalyze the data collected by Dr. emmelweis.
